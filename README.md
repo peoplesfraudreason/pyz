@@ -1,1 +1,1 @@
-# @romajikaigi / https://tsurugi.cc
+# @48id / https://pyz.netlify.app
