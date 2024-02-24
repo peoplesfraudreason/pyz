@@ -13,8 +13,8 @@
             "LinearCurveY": 0.195
         },
         "Easing": {
-            "SmoothnessX": 25,
-            "SmoothnessY": 10,
+            "SmoothnessX": 23,
+            "SmoothnessY": 8,
             "SmoothingReplicatorX": 5,
             "SmoothingReplicatorY": 5,
             "SmoothingDividerX": 250,
